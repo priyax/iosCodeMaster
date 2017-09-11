@@ -1,0 +1,64 @@
+{
+    "socialActivity": [
+        {
+            "type": "youtube",
+            "shares": 2500,
+            "desc": "Video of cat doing something cute"
+        },
+        {
+            "type": "twitter",
+            "shares": 500,
+            "desc": "Celebrity saying something idiotic"
+        },
+        {
+            "type": "instagram",
+            "shares": 15,
+            "desc": "Another selfie obscured by filters"
+        },
+        {
+            "type": "linkedin",
+            "shares": 5,
+            "desc": "CEO talks about synergy and stuff"
+        },
+        {
+            "type": "facebook",
+            "shares": 2853,
+            "desc": "Conspiracy theory about aliens"
+        },
+        {
+            "type": "pinterest",
+            "shares": 120,
+            "desc": "Another damn recipe that uses kale"
+        },
+        {
+            "type": "instagram",
+            "shares": 15,
+            "desc": "Pictures of creepy handmade sock puppets"
+        },
+        {
+            "type": "twitter",
+            "shares": 850,
+            "desc": "Politician states obvious"
+        },
+        {
+            "type": "linkedin",
+            "shares": 50,
+            "desc": "Top 100 Crappiest places to work"
+        },
+        {
+            "type": "facebook",
+            "shares": 2500,
+            "desc": "New all-you-can-eat Cheetos diet"
+        },
+        {
+            "type": "youtube",
+            "shares": 12269,
+            "desc": "Video of someone falling down stairs"
+        },
+        {
+            "type": "pinterest",
+            "shares": 40,
+            "desc": "Person with too much free-time & money re-decorates"
+        }
+    ]
+}
